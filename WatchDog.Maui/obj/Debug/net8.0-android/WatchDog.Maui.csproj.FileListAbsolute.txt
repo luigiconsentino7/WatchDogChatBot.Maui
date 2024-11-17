@@ -1072,3 +1072,4 @@ C:\FECAP\WatchDog.Maui\WatchDog.Maui\obj\Debug\net8.0-android\stamp\_ConvertReso
 C:\FECAP\WatchDog.Maui\WatchDog.Maui\obj\Debug\net8.0-android\stamp\_GenerateJavaStubs.stamp
 C:\FECAP\WatchDog.Maui\WatchDog.Maui\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\FECAP\WatchDog.Maui\WatchDog.Maui\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
+C:\FECAP\WatchDog.Maui\WatchDog.Maui\obj\Debug\net8.0-android\WatchDog.Maui.sourcelink.json

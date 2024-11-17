@@ -34,11 +34,35 @@ build_metadata.AdditionalFiles.ManifestResourceName = WatchDog.Maui.AppShell.xam
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
+[C:/FECAP/WatchDog.Maui/WatchDog.Maui/DecryptionScreen.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchDog.Maui.DecryptionScreen.xaml
+build_metadata.AdditionalFiles.TargetPath = DecryptionScreen.xaml
+build_metadata.AdditionalFiles.RelativePath = DecryptionScreen.xaml
+
+[C:/FECAP/WatchDog.Maui/WatchDog.Maui/EncryptionScreen.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchDog.Maui.EncryptionScreen.xaml
+build_metadata.AdditionalFiles.TargetPath = EncryptionScreen.xaml
+build_metadata.AdditionalFiles.RelativePath = EncryptionScreen.xaml
+
+[C:/FECAP/WatchDog.Maui/WatchDog.Maui/HomeScreen.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchDog.Maui.HomeScreen.xaml
+build_metadata.AdditionalFiles.TargetPath = HomeScreen.xaml
+build_metadata.AdditionalFiles.RelativePath = HomeScreen.xaml
+
 [C:/FECAP/WatchDog.Maui/WatchDog.Maui/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = WatchDog.Maui.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/FECAP/WatchDog.Maui/WatchDog.Maui/RegisterScreen.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = WatchDog.Maui.RegisterScreen.xaml
+build_metadata.AdditionalFiles.TargetPath = RegisterScreen.xaml
+build_metadata.AdditionalFiles.RelativePath = RegisterScreen.xaml
 
 [C:/FECAP/WatchDog.Maui/WatchDog.Maui/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
