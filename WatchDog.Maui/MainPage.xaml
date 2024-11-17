@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WatchDog.Maui.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="10" Spacing="15" Margin="100,50,100,50">
+
+            <!-- Título -->
+            <Label Text="WatchDog ChatBot" 
+                   FontSize="24" 
+                   HorizontalOptions="Center" 
+                   VerticalOptions="Start" 
+                   Margin="0,0,0,20"/>
+
+            <!-- Área de Logs -->
+            <ScrollView HeightRequest="200" VerticalOptions="StartAndExpand">
+                <Label x:Name="LogHistory" 
+                       VerticalOptions="Start" 
+                       LineBreakMode="WordWrap" 
+                       MaxLines="10"/>
+            </ScrollView>
+
+            <!-- Botões -->
+            <Button x:Name="UploadButton" 
+                    Text="Upload Arquivo" 
+                    Clicked="OnUploadFileClicked" 
+                    HorizontalOptions="FillAndExpand" />
+
+            <Button x:Name="ProcessButton" 
+                    Text="Processar Arquivo" 
+                    Clicked="OnProcessFileClicked" 
+                    HorizontalOptions="FillAndExpand" />
+
+            <Button x:Name="DownloadButton" 
+                    Text="Baixar Arquivo Criptografado" 
+                    Clicked="OnDownloadFileClicked" 
+                    HorizontalOptions="FillAndExpand" 
+                    IsEnabled="False" />
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
