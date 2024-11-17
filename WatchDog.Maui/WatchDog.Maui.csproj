@@ -71,6 +71,9 @@
 	  <MauiXaml Update="HomeScreen.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
+	  <MauiXaml Update="LogoView.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="RegisterScreen.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>

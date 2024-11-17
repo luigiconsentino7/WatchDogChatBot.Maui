@@ -8,11 +8,6 @@ C:\FECAP\WatchDog.Maui\WatchDog.Maui\obj\Debug\net8.0-android\mauifont.inputs
 C:\FECAP\WatchDog.Maui\WatchDog.Maui\obj\Debug\net8.0-android\mauisplash.inputs
 C:\FECAP\WatchDog.Maui\WatchDog.Maui\obj\Debug\net8.0-android\mauisplash.stamp
 C:\FECAP\WatchDog.Maui\WatchDog.Maui\obj\Debug\net8.0-android\mauifont.stamp
-C:\FECAP\WatchDog.Maui\WatchDog.Maui\obj\Debug\net8.0-android\resizetizer\r\drawable-xxxhdpi\dotnet_bot.png
-C:\FECAP\WatchDog.Maui\WatchDog.Maui\obj\Debug\net8.0-android\resizetizer\r\drawable-xxhdpi\dotnet_bot.png
-C:\FECAP\WatchDog.Maui\WatchDog.Maui\obj\Debug\net8.0-android\resizetizer\r\drawable-xhdpi\dotnet_bot.png
-C:\FECAP\WatchDog.Maui\WatchDog.Maui\obj\Debug\net8.0-android\resizetizer\r\drawable-hdpi\dotnet_bot.png
-C:\FECAP\WatchDog.Maui\WatchDog.Maui\obj\Debug\net8.0-android\resizetizer\r\drawable-mdpi\dotnet_bot.png
 C:\FECAP\WatchDog.Maui\WatchDog.Maui\obj\Debug\net8.0-android\resizetizer\r\mipmap-xxxhdpi\appicon_round.png
 C:\FECAP\WatchDog.Maui\WatchDog.Maui\obj\Debug\net8.0-android\resizetizer\r\mipmap-xxhdpi\appicon_round.png
 C:\FECAP\WatchDog.Maui\WatchDog.Maui\obj\Debug\net8.0-android\resizetizer\r\mipmap-xhdpi\appicon_round.png
@@ -1073,3 +1068,4 @@ C:\FECAP\WatchDog.Maui\WatchDog.Maui\obj\Debug\net8.0-android\stamp\_GenerateJav
 C:\FECAP\WatchDog.Maui\WatchDog.Maui\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\FECAP\WatchDog.Maui\WatchDog.Maui\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
 C:\FECAP\WatchDog.Maui\WatchDog.Maui\obj\Debug\net8.0-android\WatchDog.Maui.sourcelink.json
+C:\FECAP\WatchDog.Maui\WatchDog.Maui\obj\Debug\net8.0-android\resizetizer\r\drawable\logowatchdogremovebg.png

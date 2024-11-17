@@ -15,6 +15,8 @@ namespace WatchDog.Maui
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
                 });
 
+            builder.Services.AddSingleton<IImageSource>(new FileImageSource { File = "logowatchdogremovebg.png" });
+
 #if DEBUG
     		builder.Logging.AddDebug();
 #endif

@@ -3,64 +3,16 @@
   "WorkspaceRootPath": "C:\\FECAP\\WatchDog.Maui\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F5EEE54-01DC-4E15-A64B-6BC54A26773F}|WatchDog.Maui\\WatchDog.Maui.csproj|c:\\fecap\\watchdog.maui\\watchdog.maui\\registerscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F5EEE54-01DC-4E15-A64B-6BC54A26773F}|WatchDog.Maui\\WatchDog.Maui.csproj|solutionrelative:watchdog.maui\\registerscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F5EEE54-01DC-4E15-A64B-6BC54A26773F}|WatchDog.Maui\\WatchDog.Maui.csproj|c:\\fecap\\watchdog.maui\\watchdog.maui\\resources\\appicon\\appiconfg.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{2F5EEE54-01DC-4E15-A64B-6BC54A26773F}|WatchDog.Maui\\WatchDog.Maui.csproj|solutionrelative:watchdog.maui\\resources\\appicon\\appiconfg.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F5EEE54-01DC-4E15-A64B-6BC54A26773F}|WatchDog.Maui\\WatchDog.Maui.csproj|c:\\fecap\\watchdog.maui\\watchdog.maui\\resources\\appicon\\appicon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{2F5EEE54-01DC-4E15-A64B-6BC54A26773F}|WatchDog.Maui\\WatchDog.Maui.csproj|solutionrelative:watchdog.maui\\resources\\appicon\\appicon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F5EEE54-01DC-4E15-A64B-6BC54A26773F}|WatchDog.Maui\\WatchDog.Maui.csproj|c:\\fecap\\watchdog.maui\\watchdog.maui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2F5EEE54-01DC-4E15-A64B-6BC54A26773F}|WatchDog.Maui\\WatchDog.Maui.csproj|solutionrelative:watchdog.maui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F5EEE54-01DC-4E15-A64B-6BC54A26773F}|WatchDog.Maui\\WatchDog.Maui.csproj|c:\\fecap\\watchdog.maui\\watchdog.maui\\decryptionscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F5EEE54-01DC-4E15-A64B-6BC54A26773F}|WatchDog.Maui\\WatchDog.Maui.csproj|solutionrelative:watchdog.maui\\decryptionscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F5EEE54-01DC-4E15-A64B-6BC54A26773F}|WatchDog.Maui\\WatchDog.Maui.csproj|c:\\fecap\\watchdog.maui\\watchdog.maui\\encryptionscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F5EEE54-01DC-4E15-A64B-6BC54A26773F}|WatchDog.Maui\\WatchDog.Maui.csproj|solutionrelative:watchdog.maui\\encryptionscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F5EEE54-01DC-4E15-A64B-6BC54A26773F}|WatchDog.Maui\\WatchDog.Maui.csproj|c:\\fecap\\watchdog.maui\\watchdog.maui\\homescreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F5EEE54-01DC-4E15-A64B-6BC54A26773F}|WatchDog.Maui\\WatchDog.Maui.csproj|solutionrelative:watchdog.maui\\homescreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F5EEE54-01DC-4E15-A64B-6BC54A26773F}|WatchDog.Maui\\WatchDog.Maui.csproj|c:\\fecap\\watchdog.maui\\watchdog.maui\\registerscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2F5EEE54-01DC-4E15-A64B-6BC54A26773F}|WatchDog.Maui\\WatchDog.Maui.csproj|solutionrelative:watchdog.maui\\registerscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F5EEE54-01DC-4E15-A64B-6BC54A26773F}|WatchDog.Maui\\WatchDog.Maui.csproj|c:\\fecap\\watchdog.maui\\watchdog.maui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F5EEE54-01DC-4E15-A64B-6BC54A26773F}|WatchDog.Maui\\WatchDog.Maui.csproj|solutionrelative:watchdog.maui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F5EEE54-01DC-4E15-A64B-6BC54A26773F}|WatchDog.Maui\\WatchDog.Maui.csproj|c:\\fecap\\watchdog.maui\\watchdog.maui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2F5EEE54-01DC-4E15-A64B-6BC54A26773F}|WatchDog.Maui\\WatchDog.Maui.csproj|solutionrelative:watchdog.maui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F5EEE54-01DC-4E15-A64B-6BC54A26773F}|WatchDog.Maui\\WatchDog.Maui.csproj|c:\\fecap\\watchdog.maui\\watchdog.maui\\homescreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2F5EEE54-01DC-4E15-A64B-6BC54A26773F}|WatchDog.Maui\\WatchDog.Maui.csproj|solutionrelative:watchdog.maui\\homescreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{2F5EEE54-01DC-4E15-A64B-6BC54A26773F}|WatchDog.Maui\\WatchDog.Maui.csproj|c:\\fecap\\watchdog.maui\\watchdog.maui\\decryptionscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F5EEE54-01DC-4E15-A64B-6BC54A26773F}|WatchDog.Maui\\WatchDog.Maui.csproj|solutionrelative:watchdog.maui\\decryptionscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2F5EEE54-01DC-4E15-A64B-6BC54A26773F}|WatchDog.Maui\\WatchDog.Maui.csproj|c:\\fecap\\watchdog.maui\\watchdog.maui\\encryptionscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{2F5EEE54-01DC-4E15-A64B-6BC54A26773F}|WatchDog.Maui\\WatchDog.Maui.csproj|solutionrelative:watchdog.maui\\encryptionscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F5EEE54-01DC-4E15-A64B-6BC54A26773F}|WatchDog.Maui\\WatchDog.Maui.csproj|c:\\fecap\\watchdog.maui\\watchdog.maui\\decryptionscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2F5EEE54-01DC-4E15-A64B-6BC54A26773F}|WatchDog.Maui\\WatchDog.Maui.csproj|solutionrelative:watchdog.maui\\decryptionscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F5EEE54-01DC-4E15-A64B-6BC54A26773F}|WatchDog.Maui\\WatchDog.Maui.csproj|c:\\fecap\\watchdog.maui\\watchdog.maui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F5EEE54-01DC-4E15-A64B-6BC54A26773F}|WatchDog.Maui\\WatchDog.Maui.csproj|solutionrelative:watchdog.maui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F5EEE54-01DC-4E15-A64B-6BC54A26773F}|WatchDog.Maui\\WatchDog.Maui.csproj|c:\\fecap\\watchdog.maui\\watchdog.maui\\watchdog.maui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2F5EEE54-01DC-4E15-A64B-6BC54A26773F}|WatchDog.Maui\\WatchDog.Maui.csproj|solutionrelative:watchdog.maui\\watchdog.maui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{2F5EEE54-01DC-4E15-A64B-6BC54A26773F}|WatchDog.Maui\\WatchDog.Maui.csproj|c:\\fecap\\watchdog.maui\\watchdog.maui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F5EEE54-01DC-4E15-A64B-6BC54A26773F}|WatchDog.Maui\\WatchDog.Maui.csproj|solutionrelative:watchdog.maui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,201 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DecryptionScreen.xaml",
+              "DocumentMoniker": "C:\\FECAP\\WatchDog.Maui\\WatchDog.Maui\\DecryptionScreen.xaml",
+              "RelativeDocumentMoniker": "WatchDog.Maui\\DecryptionScreen.xaml",
+              "ToolTip": "C:\\FECAP\\WatchDog.Maui\\WatchDog.Maui\\DecryptionScreen.xaml",
+              "RelativeToolTip": "WatchDog.Maui\\DecryptionScreen.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T22:01:21.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appiconfg.svg",
-              "DocumentMoniker": "C:\\FECAP\\WatchDog.Maui\\WatchDog.Maui\\Resources\\AppIcon\\appiconfg.svg",
-              "RelativeDocumentMoniker": "WatchDog.Maui\\Resources\\AppIcon\\appiconfg.svg",
-              "ToolTip": "C:\\FECAP\\WatchDog.Maui\\WatchDog.Maui\\Resources\\AppIcon\\appiconfg.svg",
-              "RelativeToolTip": "WatchDog.Maui\\Resources\\AppIcon\\appiconfg.svg",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQKSURBVDhPrVRbTCNVGP5OOzO9TKEWSrGUttpdpV2ua7ioaDa7ullcdVe8rHFNjPFBY4hGY0wIJprw5ItmCdEXL/FRE4MQsw9LiCthIcFFxA3hFiEsLQUKpaW03XZmOuOZaQsY9W2/5J/zz3/55j///OfgrkJRFFJQD9DX13elrq7uXVWnfk2KugpZlpHJZJBKpYa6u7u7gsFgWHP8HyjhHE2Sc7ncf4okSfLMzIw8NTUl9/f3/xgIBGoKqRr0hfUAHR0dXW1tbXaZFiQJccjpWyDJbyBsfQ9x46oW81dIRHNLG0wmk4/juOr19fVbUQrV9w9CrvVl4m9s7VpIG\u002BxL6\u002BMolb6EaesrSOFhgNRAVtyQIhMIbgPeB1ths9kYs9l8vKyszD0/P39jnyJPSAj4hy7YPE\u002B/\u002BUmJ0/NkS4DlzlRegXXzGmZWmvBT4j0sGy6jvvE85O05JEUeN6ZXMT09jUQioafEgdHR0R/i8XiYUfmMdees3ovvfPhEc/VbL9Qvm5vljxBdTGM81YMl33MICiZMLG8iJa7iRUct/I3HUA0HBEGAxWLB7OysVpcKnfpwdLzd3haoePVS7WRpS/oDsjeTwTrpRbqiE2wK4EUJnvuqcHM7h7HY/SAlHtjt5XA6nbBardDr9QdToBF6nZbOZ/1z5Q3i52RnSoS54TvUP9yJSyedeKXBjuTGNmycAYQ3YSrKYiejpVFQkiOjpULb8omK\u002BOOPWL81JVeM\u002BEL8GKFfWYjSn/Qn0GDQucsxKGd0YDkWK9tZxPYFVJUaVS7a/8MZVcFUORnu9YZr1ezaMrmu\u002B1ThW84Sn0IrKATlSRWIdwTaMxFZSYKk2jS36skTFkmZ0ILnYmzlZ8Nk8g1lzn0u99vEor6p0kwUeiLUIJVQTSR0MF202ka3BQ4Lp9nydHnCIhglEX5p67Yrez13GmJKYXgTq2v32clJFw\u002BrkUEiI2JyNYa1WFrNhNtmhoXaDzkOyVQwmVCmPZYy/DK\u002ByZzwMHFvpc9FhjfSGF7agkK3yHAMcpZyxHJm7EZ28ZSOgKVShFb/kQp10h4xne/JXg5v7ny2OLcSvb2xrwh8CeicgBx/AFmXFxF6h0QiUfiMEp6pqwSnL/7lf0Pf8xocp\u002B6N\u002BW6OL4x5nayYjIv\u002BRFLmQ5E9RHfiuBPdBbu/h9p7GLx/\u002BhjKeNo/erK02mhlhOpra2sYHBz8mp6asJ7O62R4E2cC3NYpV2Rs1lndaD776GN\u002BB5tDjZVBaxWPC7UOPN9UBSOrTVl\u002Bn4VdE52OEgYxNDSkEeatR9Db2zumXl\u002BiKBZEkEUhL/SoFSR7sKoxIyMjstvtblHzC588BG3w7wMDA\u002B0FXRP1Ui02vmgrigpa2R902dVe7i6AvwHcTSP/8z9AyQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-11-17T21:33:39.434Z",
+              "Title": "EncryptionScreen.xaml",
+              "DocumentMoniker": "C:\\FECAP\\WatchDog.Maui\\WatchDog.Maui\\EncryptionScreen.xaml",
+              "RelativeDocumentMoniker": "WatchDog.Maui\\EncryptionScreen.xaml",
+              "ToolTip": "C:\\FECAP\\WatchDog.Maui\\WatchDog.Maui\\EncryptionScreen.xaml",
+              "RelativeToolTip": "WatchDog.Maui\\EncryptionScreen.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-17T22:00:47.651Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appicon.svg",
-              "DocumentMoniker": "C:\\FECAP\\WatchDog.Maui\\WatchDog.Maui\\Resources\\AppIcon\\appicon.svg",
-              "RelativeDocumentMoniker": "WatchDog.Maui\\Resources\\AppIcon\\appicon.svg",
-              "ToolTip": "C:\\FECAP\\WatchDog.Maui\\WatchDog.Maui\\Resources\\AppIcon\\appicon.svg",
-              "RelativeToolTip": "WatchDog.Maui\\Resources\\AppIcon\\appicon.svg",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQKSURBVDhPrVRbTCNVGP5OOzO9TKEWSrGUttpdpV2ua7ioaDa7ullcdVe8rHFNjPFBY4hGY0wIJprw5ItmCdEXL/FRE4MQsw9LiCthIcFFxA3hFiEsLQUKpaW03XZmOuOZaQsY9W2/5J/zz3/55j///OfgrkJRFFJQD9DX13elrq7uXVWnfk2KugpZlpHJZJBKpYa6u7u7gsFgWHP8HyjhHE2Sc7ncf4okSfLMzIw8NTUl9/f3/xgIBGoKqRr0hfUAHR0dXW1tbXaZFiQJccjpWyDJbyBsfQ9x46oW81dIRHNLG0wmk4/juOr19fVbUQrV9w9CrvVl4m9s7VpIG\u002BxL6\u002BMolb6EaesrSOFhgNRAVtyQIhMIbgPeB1ths9kYs9l8vKyszD0/P39jnyJPSAj4hy7YPE\u002B/\u002BUmJ0/NkS4DlzlRegXXzGmZWmvBT4j0sGy6jvvE85O05JEUeN6ZXMT09jUQioafEgdHR0R/i8XiYUfmMdees3ovvfPhEc/VbL9Qvm5vljxBdTGM81YMl33MICiZMLG8iJa7iRUct/I3HUA0HBEGAxWLB7OysVpcKnfpwdLzd3haoePVS7WRpS/oDsjeTwTrpRbqiE2wK4EUJnvuqcHM7h7HY/SAlHtjt5XA6nbBardDr9QdToBF6nZbOZ/1z5Q3i52RnSoS54TvUP9yJSyedeKXBjuTGNmycAYQ3YSrKYiejpVFQkiOjpULb8omK\u002BOOPWL81JVeM\u002BEL8GKFfWYjSn/Qn0GDQucsxKGd0YDkWK9tZxPYFVJUaVS7a/8MZVcFUORnu9YZr1ezaMrmu\u002B1ThW84Sn0IrKATlSRWIdwTaMxFZSYKk2jS36skTFkmZ0ILnYmzlZ8Nk8g1lzn0u99vEor6p0kwUeiLUIJVQTSR0MF202ka3BQ4Lp9nydHnCIhglEX5p67Yrez13GmJKYXgTq2v32clJFw\u002BrkUEiI2JyNYa1WFrNhNtmhoXaDzkOyVQwmVCmPZYy/DK\u002ByZzwMHFvpc9FhjfSGF7agkK3yHAMcpZyxHJm7EZ28ZSOgKVShFb/kQp10h4xne/JXg5v7ny2OLcSvb2xrwh8CeicgBx/AFmXFxF6h0QiUfiMEp6pqwSnL/7lf0Pf8xocp\u002B6N\u002BW6OL4x5nayYjIv\u002BRFLmQ5E9RHfiuBPdBbu/h9p7GLx/\u002BhjKeNo/erK02mhlhOpra2sYHBz8mp6asJ7O62R4E2cC3NYpV2Rs1lndaD776GN\u002BB5tDjZVBaxWPC7UOPN9UBSOrTVl\u002Bn4VdE52OEgYxNDSkEeatR9Db2zumXl\u002BiKBZEkEUhL/SoFSR7sKoxIyMjstvtblHzC588BG3w7wMDA\u002B0FXRP1Ui02vmgrigpa2R902dVe7i6AvwHcTSP/8z9AyQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-11-17T21:33:37.017Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RegisterScreen.xaml.cs",
-              "DocumentMoniker": "C:\\FECAP\\WatchDog.Maui\\WatchDog.Maui\\RegisterScreen.xaml.cs",
-              "RelativeDocumentMoniker": "WatchDog.Maui\\RegisterScreen.xaml.cs",
-              "ToolTip": "C:\\FECAP\\WatchDog.Maui\\WatchDog.Maui\\RegisterScreen.xaml.cs*",
-              "RelativeToolTip": "WatchDog.Maui\\RegisterScreen.xaml.cs*",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwCgAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T20:54:12.631Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomeScreen.xaml.cs",
-              "DocumentMoniker": "C:\\FECAP\\WatchDog.Maui\\WatchDog.Maui\\HomeScreen.xaml.cs",
-              "RelativeDocumentMoniker": "WatchDog.Maui\\HomeScreen.xaml.cs",
-              "ToolTip": "C:\\FECAP\\WatchDog.Maui\\WatchDog.Maui\\HomeScreen.xaml.cs*",
-              "RelativeToolTip": "WatchDog.Maui\\HomeScreen.xaml.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T20:56:41.642Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EncryptionScreen.xaml.cs",
-              "DocumentMoniker": "C:\\FECAP\\WatchDog.Maui\\WatchDog.Maui\\EncryptionScreen.xaml.cs",
-              "RelativeDocumentMoniker": "WatchDog.Maui\\EncryptionScreen.xaml.cs",
-              "ToolTip": "C:\\FECAP\\WatchDog.Maui\\WatchDog.Maui\\EncryptionScreen.xaml.cs*",
-              "RelativeToolTip": "WatchDog.Maui\\EncryptionScreen.xaml.cs*",
-              "ViewState": "AgIAAIYAAAAAAAAAAAAswA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T20:33:27.148Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DecryptionScreen.xaml.cs",
-              "DocumentMoniker": "C:\\FECAP\\WatchDog.Maui\\WatchDog.Maui\\DecryptionScreen.xaml.cs",
-              "RelativeDocumentMoniker": "WatchDog.Maui\\DecryptionScreen.xaml.cs",
-              "ToolTip": "C:\\FECAP\\WatchDog.Maui\\WatchDog.Maui\\DecryptionScreen.xaml.cs*",
-              "RelativeToolTip": "WatchDog.Maui\\DecryptionScreen.xaml.cs*",
-              "ViewState": "AgIAAJIAAAAAAAAAAAAswA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T20:39:20.109Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\FECAP\\WatchDog.Maui\\WatchDog.Maui\\AppShell.xaml",
-              "RelativeDocumentMoniker": "WatchDog.Maui\\AppShell.xaml",
-              "ToolTip": "C:\\FECAP\\WatchDog.Maui\\WatchDog.Maui\\AppShell.xaml",
-              "RelativeToolTip": "WatchDog.Maui\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAhwAoAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-17T21:06:00.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RegisterScreen.xaml",
-              "DocumentMoniker": "C:\\FECAP\\WatchDog.Maui\\WatchDog.Maui\\RegisterScreen.xaml",
-              "RelativeDocumentMoniker": "WatchDog.Maui\\RegisterScreen.xaml",
-              "ToolTip": "C:\\FECAP\\WatchDog.Maui\\WatchDog.Maui\\RegisterScreen.xaml*",
-              "RelativeToolTip": "WatchDog.Maui\\RegisterScreen.xaml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-17T20:53:13.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\FECAP\\WatchDog.Maui\\WatchDog.Maui\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "WatchDog.Maui\\MauiProgram.cs",
-              "ToolTip": "C:\\FECAP\\WatchDog.Maui\\WatchDog.Maui\\MauiProgram.cs",
-              "RelativeToolTip": "WatchDog.Maui\\MauiProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T19:39:07.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\FECAP\\WatchDog.Maui\\WatchDog.Maui\\MainPage.xaml",
               "RelativeDocumentMoniker": "WatchDog.Maui\\MainPage.xaml",
-              "ToolTip": "C:\\FECAP\\WatchDog.Maui\\WatchDog.Maui\\MainPage.xaml*",
-              "RelativeToolTip": "WatchDog.Maui\\MainPage.xaml*",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\FECAP\\WatchDog.Maui\\WatchDog.Maui\\MainPage.xaml",
+              "RelativeToolTip": "WatchDog.Maui\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-17T19:35:49.18Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HomeScreen.xaml",
-              "DocumentMoniker": "C:\\FECAP\\WatchDog.Maui\\WatchDog.Maui\\HomeScreen.xaml",
-              "RelativeDocumentMoniker": "WatchDog.Maui\\HomeScreen.xaml",
-              "ToolTip": "C:\\FECAP\\WatchDog.Maui\\WatchDog.Maui\\HomeScreen.xaml*",
-              "RelativeToolTip": "WatchDog.Maui\\HomeScreen.xaml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-17T20:56:13.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EncryptionScreen.xaml",
-              "DocumentMoniker": "C:\\FECAP\\WatchDog.Maui\\WatchDog.Maui\\EncryptionScreen.xaml",
-              "RelativeDocumentMoniker": "WatchDog.Maui\\EncryptionScreen.xaml",
-              "ToolTip": "C:\\FECAP\\WatchDog.Maui\\WatchDog.Maui\\EncryptionScreen.xaml*",
-              "RelativeToolTip": "WatchDog.Maui\\EncryptionScreen.xaml*",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-17T20:32:47.803Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DecryptionScreen.xaml",
-              "DocumentMoniker": "C:\\FECAP\\WatchDog.Maui\\WatchDog.Maui\\DecryptionScreen.xaml",
-              "RelativeDocumentMoniker": "WatchDog.Maui\\DecryptionScreen.xaml",
-              "ToolTip": "C:\\FECAP\\WatchDog.Maui\\WatchDog.Maui\\DecryptionScreen.xaml*",
-              "RelativeToolTip": "WatchDog.Maui\\DecryptionScreen.xaml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-17T20:32:17.553Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\FECAP\\WatchDog.Maui\\WatchDog.Maui\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "WatchDog.Maui\\MainPage.xaml.cs",
-              "ToolTip": "C:\\FECAP\\WatchDog.Maui\\WatchDog.Maui\\MainPage.xaml.cs*",
-              "RelativeToolTip": "WatchDog.Maui\\MainPage.xaml.cs*",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwC0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T19:40:24.237Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "WatchDog.Maui",
-              "DocumentMoniker": "C:\\FECAP\\WatchDog.Maui\\WatchDog.Maui\\WatchDog.Maui.csproj",
-              "RelativeDocumentMoniker": "WatchDog.Maui\\WatchDog.Maui.csproj",
-              "ToolTip": "C:\\FECAP\\WatchDog.Maui\\WatchDog.Maui\\WatchDog.Maui.csproj*",
-              "RelativeToolTip": "WatchDog.Maui\\WatchDog.Maui.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-17T20:52:58.183Z",
+              "WhenOpened": "2024-11-17T21:56:48.445Z",
               "EditorCaption": ""
             }
           ]
